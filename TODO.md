@@ -1,0 +1,3 @@
+- [x] Modify AuthController showLogin method to retrieve 'user_email' cookie and pass to view
+- [x] Update login.blade.php to auto-fill email field with cookie value if no old input
+- [x] Run tests to verify email auto-fill functionality
